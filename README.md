@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: HE
-- ⚡ Fun fact: I know a little bit of alot of coding language s
+- ⚡ Fun fact: I know a little bit of alot of coding languages
 
 <!---
 LucasPixel1/LucasPixel1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
